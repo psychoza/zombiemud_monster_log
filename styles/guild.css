@@ -1,0 +1,149 @@
+#monsterlog {
+	background-color: white;
+	border:1px solid #666666;
+	border-radius: 15px;
+	-moz-border-radius: 15px; /* Old Firefox */
+	box-shadow: 5px 5px 5px #cccccc;
+	font-size: 12px;
+	color: #29517b;
+	font-family: monospace;
+	margin: auto;
+	padding: 10px;
+	width: 95%;
+}
+h1 {
+	color: #29517b;
+	font-size: 18px;
+	text-align: center;
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+}
+h2 {
+	color:#29517b;
+	text-align: center;
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+}
+h3 {
+	color:#29517b;
+	font-size: 10px;
+	text-align: center;
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+}
+table {
+	width:100%;
+	color:#29517b;
+	vertical-align: top;
+    border-collapse: collapse;
+}
+th {
+	font-weight: bold;
+	color: #660000;
+	background-color: #9D8D6C;
+	text-align: center;
+}
+tr {
+
+}
+td {
+	text-align: center;
+	vertical-align: top;
+}
+.area {
+	color:#29517b;
+	width: 10%;
+	background-color: #EDE2CD;
+	text-decoration: underline;
+	border-left: solid 1px #29517b;
+	border-bottom: solid 1px #29517b;
+    border-collapse: collapse;
+}
+
+.coder {
+	width: 5%;
+	color:#29517b;
+	border-left: solid 1px #29517b;
+	border-bottom: solid 1px #29517b;
+}
+
+.directions {
+	width: 25%;
+	color:#29517b;
+	border-left: solid 1px #29517b;
+	border-bottom: solid 1px #29517b;
+}
+.monsters {
+	width: 60%;
+	color:#29517b;
+	border-left: solid 1px #29517b;
+	border-right: solid 1px #29517b;
+	border-bottom: solid 1px #29517b;
+	border-collapse: collapse;
+	height: 100%;
+}
+.monsters th {
+	background-color: #EDE2CD;
+}
+.monsters tr:nth-child(even) {
+    background-color: #CCC;
+}
+.monstersname {
+	color:#29517b;
+	text-align: left;
+	width: 38%;
+	border-top: solid 1px #29517b;
+	border-collapse: collapse;
+}
+.monstersworth {
+	color:#29517b;
+	text-align: right;
+	width: 7%;
+	border-top: solid 1px #29517b;
+	border-collapse: collapse;
+}
+.monstersalignment {
+	color:#29517b;
+	text-align: center;
+	width: 11%;
+	border-top: solid 1px #29517b;
+	border-collapse: collapse;
+}
+.monstersskillspell {
+	width: 14%;
+	border-top: solid 1px #29517b;
+	border-collapse: collapse;
+}
+.monstersskillspell tr:nth-child(odd) {
+    background-color: transparent;
+}
+.monstersskillspell tr:nth-child(even) {
+    background-color: transparent;
+}
+.skillspell {
+	border-top: none;
+	color:#29517b;
+	text-align: center;
+}
+.monstersloot {
+	width: 30%;
+	border-top: solid 1px #29517b;
+	border-collapse: collapse;
+}
+.monstersloot tr:nth-child(odd) {
+    background-color: transparent;
+}
+.monstersloot tr:nth-child(even) {
+    background-color: transparent;
+}
+.loot {
+	border-bottom: none;
+	color:#29517b;
+	text-align: center;
+}
+.infospan {
+	text-align: center;
+	width: 100%;
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+}
