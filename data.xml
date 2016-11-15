@@ -8470,6 +8470,7 @@
         <To>13 n;12 nw;4 ne;hillside;</To>
         <From>w;4 sw;12 se;13 s;</From>
       </Directions>
+      <Coder>Finderne</Coder>
       <Monsters>
         <Monster>
           <Name>The dragon Tahl-Sthor</Name>
