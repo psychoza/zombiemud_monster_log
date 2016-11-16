@@ -8469,16 +8469,61 @@
     <Area>
       <Name>Malbeth</Name>
       <Directions>
-        <To></To>
-        <From></From>
+        <To>7 n;4 nw;20 w;13 w;path;</To>
+        <From>n;13 e;20 e;4 se;7 s;</From>
       </Directions>
+      <Coder>Eod</Coder>
       <Monsters>
         <Monster>
-          <Name>Temple's High Enchantress Dandra</Name>
-          <Worth>405000</Worth>
+          <Name>A peasant girl stands here dreaming of the outside world</Name>
+          <Worth>19000</Worth>
+        </Monster>
+        <Monster>
+          <Name>A peasant girl is standing here dreaming of Malbeth</Name>
+          <Worth>19000</Worth>
+        </Monster>
+        <Monster>
+          <Name>A peasant girl shyly smiles at you</Name>
+          <Worth>19000</Worth>
+        </Monster>
+        <Monster>
+          <Name>A peasant is here gathering water</Name>
+          <Worth>69000</Worth>
+        </Monster>
+        <Monster>
+          <Name>A young battle enraged squire attacks a dummy</Name>
+          <Worth>52000</Worth>
+        </Monster>
+        <Monster>
+          <Name>One of Malbeth's Temple Guards</Name>
+          <Worth>52000</Worth>
+        </Monster>
+        <Monster>
+          <Name>Temple's High Enchantress Sandra</Name>
+          <Worth>377000</Worth>
           <Loot>
             <Item>
+              <Name>A pair of brown leather sandals</Name>
+            </Item>
+            <Item>
+              <Name>A White Robe of High Enchantress</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
               <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>Temple's High Enchantress Dandra</Name>
+          <Worth>377000</Worth>
+          <Loot>
+            <Item>
+              <Name>A pair of brown leather sandals</Name>
+            </Item>
+            <Item>
+              <Name>A White Robe of High Enchantress</Name>
             </Item>
           </Loot>
           <SkillSpells>
@@ -8516,7 +8561,7 @@
           </SkillSpells>
         </Monster>
         <Monster>
-          <Name>Temple High Guard is standing here keeping watch</Name>
+          <Name>Temple High Guard is standing here keeping watch  (AGGRO)</Name>
           <Worth>1339000</Worth>
           <Loot>
             <Item>
