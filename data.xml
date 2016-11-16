@@ -8244,18 +8244,110 @@
     <Area>
       <Name>Stargrove</Name>
       <Directions>
-        <To></To>
-        <From></From>
+        <To>13 s;20 w;13 w;forest</To>
+        <From>s;20 e;13 e;13 n;</From>
       </Directions>
+      <Coder>Eod</Coder>
       <Monsters>
         <Monster>
+          <Name>A gremlin guard stands here picking his nose</Name>
+          <Worth>22000</Worth>
+          <Loot>
+            <Item>
+              <Name>A long spear (2h)</Name>
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>Tavor the gremlin lord is plotting an attack on the town.</Name>
+          <Worth>131000</Worth>
+        </Monster>
+        <Monster>
+          <Name>A gremlin guard is sound asleep.</Name>
+          <Worth>49000</Worth>
+          <Loot>
+            <Item>
+              <Name>A long spear (2h)</Name>
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>A big gremlin worker is working.</Name>
+          <Worth>195000</Worth>
+        </Monster>
+        <Monster>
+          <Name>A nymph here hides behind a flower</Name>
+          <Worth>11000</Worth>
+        </Monster>
+        <Monster>
+          <Name>A man sits here on the hill pondering</Name>
+          <Worth>1115000</Worth>
+          <Loot>
+            <Item>
+              <Name>The necklace of the moon</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name>Fireball</Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>A small pixie is standing here giggling</Name>
+          <Worth>4500</Worth>
+        </Monster>
+        <Monster>
+          <Name>Tommy Thistledown is whining about something.</Name>
+          <Worth>35000</Worth>
+        </Monster>
+        <Monster>
+          <Name>Tommy's Girl is crying.</Name>
+          <Worth>52000</Worth>
+        </Monster>
+        <Monster>
+          <Name>A small kid stands here picking his nose.</Name>
+          <Worth>1800</Worth>
+          <Loot>
+            <Item>
+              <Name>A small wooden sword (1h)</Name>
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>A small kid stands here on guard.</Name>
+          <Worth>2300</Worth>
+          <Loot>
+            <Item>
+              <Name>A small wooden sword (1h)</Name>
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>A kid is trying to shit in the hole but almost misses.</Name>
+          <Worth>1900</Worth>
+        </Monster>
+        <Monster>
+          <Name>A 1st order priest of Starwind</Name>
+          <Worth>69000</Worth>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>A 2nd order priest of Starwind</Name>
+          <Worth>221000</Worth>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
           <Name>A 3rd order priest of Starwind</Name>
-          <Worth>408000</Worth>
-          <Loot>
-            <Item>
-              <Name></Name>
-            </Item>
-          </Loot>
+          <Worth>381000</Worth>
           <SkillSpells>
             <SkillSpell>
               <Name></Name>
@@ -8263,30 +8355,33 @@
           </SkillSpells>
         </Monster>
         <Monster>
-          <Name>A Guard of Starwind.</Name>
+          <Name>A sleeping priest dreaming of what is to come.</Name>
+          <Worth>195000</Worth>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>Talanoa the Demon servant of Starwind.  (AGGRO)</Name>
+          <Worth>194000</Worth>
+        </Monster>
+        <Monster>
+          <Name>A Guard of Starwind.  (Aggro)</Name>
           <Worth>958000</Worth>
-          <Loot>
-            <Item>
-              <Name></Name>
-            </Item>
-          </Loot>
           <SkillSpells>
             <SkillSpell>
-              <Name></Name>
+              <Name>Acid Arrow</Name>
             </SkillSpell>
           </SkillSpells>
         </Monster>
         <Monster>
-          <Name>A Guard of Starwind</Name>
+          <Name>A Guard of Starwind.  (Aggro)</Name>
           <Worth>433706</Worth>
-          <Loot>
-            <Item>
-              <Name></Name>
-            </Item>
-          </Loot>
           <SkillSpells>
             <SkillSpell>
-              <Name></Name>
+              <Name>Acid Arrow</Name>
             </SkillSpell>
           </SkillSpells>
         </Monster>
