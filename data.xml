@@ -3445,8 +3445,8 @@
     <Area>
       <Name>Harbour</Name>
       <Directions>
-        <To>20 e;ne;6 n;village;</To>
-        <From>w;6 s;sw;20 w;</From>
+        <To>12 n;17 e;village;</To>
+        <From>18 w;12 s;</From>
       </Directions>
       <Monsters>
         <Monster>
@@ -4170,11 +4170,12 @@
       </Monsters>
     </Area>
     <Area>
-      <Name>Neckbreaker Desert</Name>
+      <Name>Neckbreaker's Desert</Name>
       <Directions>
         <To>10 s;20 w;20 w;5 n;path</To>
         <From>6 s;20 e;20 e;10 n;</From>
       </Directions>
+      <Coder>Neckbreaker</Coder>
       <Monsters>
         <Monster>
           <Name>Kalak the adventuring psionicist</Name>
@@ -4330,6 +4331,20 @@
           <SkillSpells>
             <SkillSpell>
               <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>Taurus the Elf, Prince of Thieves</Name>
+          <Worth>1810000</Worth>
+          <Loot>
+            <Item>
+              <Name>Bracelets of Refreshing</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name>Lightning Bolt</Name>
             </SkillSpell>
           </SkillSpells>
         </Monster>
@@ -8499,6 +8514,20 @@
           <Worth>52000</Worth>
         </Monster>
         <Monster>
+          <Name>Cynara the High Priestess is studying a spellbook</Name>
+          <Worth>515000</Worth>
+          <Loot>
+            <Item>
+              <Name>A silver band</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
           <Name>Temple's High Enchantress Sandra</Name>
           <Worth>377000</Worth>
           <Loot>
@@ -11653,6 +11682,231 @@
         </Monster>
       </Monsters>
     </Area>
+    <Area>
+      <Name>Barracks</Name>
+      <Coder>Darku</Coder>
+      <Directions>
+        <To>13 s;2 sw;</To>
+        <From>2 ne;13 n;</From>
+      </Directions>
+      <Monsters>
+        <Monster>
+          <Name>Officer Mattila is giving orders here.</Name>
+          <Worth>1082000</Worth>
+          <Alignment>Extremely Evil</Alignment>
+          <Worship>Teros</Worship>
+          <Loot>
+            <Item>
+              <Name>Officer's Axe (2h)</Name>
+            </Item>
+            <Item>
+              <Name>Officer Belt</Name>
+            </Item>
+            <Item>
+              <Name>An iron key</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name>Snowstorm</Name>
+            </SkillSpell>
+            <SkillSpell>
+              <Name>Poison</Name>
+            </SkillSpell>
+            <SkillSpell>
+              <Name>Curse</Name>
+            </SkillSpell>
+            <SkillSpell>
+              <Name>Powerblast</Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>An anonymous NCO waiting for training to start rests here.  (AGGRO)</Name>
+          <Worth>36000</Worth>
+          <Alignment>Neutral</Alignment>
+          <Worship>Faithless</Worship>
+          <Loot>
+            <Item>
+              <Name>Steel helm</Name>
+            </Item>
+            <Item>
+              <Name>A large hammer (2h)</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name>Fireball</Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>A recruit preparing for service</Name>
+          <Worth>7000</Worth>
+          <Alignment>Evil</Alignment>
+          <Worship>Teros</Worship>
+          <Loot>
+            <Item>
+              <Name>A Recruiter's lance (2h)</Name>
+            </Item>
+            <Item>
+              <Name>A Combat weapon belt</Name>
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>A corporal trying to look tough</Name>
+          <Worth>11000</Worth>
+          <Alignment>Neutral</Alignment>
+          <Worship>Faithless</Worship>
+          <Loot>
+            <Item>
+              <Name>A small hammer (2h)</Name>
+            </Item>
+            <Item>
+              <Name>A Combat weapon belt</Name>
+            </Item>
+          </Loot>
+        </Monster>
+      </Monsters>
+    </Area>
+    <Area>
+      <Name>Mansion</Name>
+      <Coder>Core</Coder>
+      <Directions>
+        <To>15 s;3 sw;enter;</To>
+        <From>out;3 ne;15 n;</From>
+      </Directions>
+      <Monsters>
+        <Monster>
+          <Name>A butler waiting for guests (undead)</Name>
+          <Worth>45000</Worth>
+          <Alignment>Slightly Evil</Alignment>
+          <Worship>Mordiggian</Worship>
+        </Monster>
+        <Monster>
+          <Name>A housewife gushing with blood from her wrists.</Name>
+          <Worth>45000</Worth>
+          <Alignment>Slightly Evil</Alignment>
+          <Worship>Kirvana</Worship>
+        </Monster>
+        <Monster>
+          <Name>A servant girl with half-burned face. (undead)</Name>
+          <Worth>23000</Worth>
+          <Alignment>Slightly Evil</Alignment>
+          <Worship>Mordiggian</Worship>
+        </Monster>
+        <Monster>
+          <Name>A bloody and dismembered cook.</Name>
+          <Worth>23000</Worth>
+          <Alignment>Slightly Evil</Alignment>
+          <Worship>Faithless</Worship>
+          <Loot>
+            <Item>
+              <Name>A long butcher knife (1h)</Name>
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>A huge rat is here eating a festering head.</Name>
+          <Worth>35000</Worth>
+          <Alignment>Slightly Evil</Alignment>
+          <Worship>Kirvana</Worship>
+          <Loot>
+            <Item>
+              <Name>A festering humans head</Name>
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>A fire-spirit</Name>
+          <Worth>35000</Worth>
+          <Alignment>Very Evil</Alignment>
+          <Worship>Teros</Worship>
+        </Monster>
+        <Monster>
+          <Name>The Mansion Lord, sitting on a sofa, looking at the fire.</Name>
+          <Worth>125000</Worth>
+          <Alignment>Slightly Evil</Alignment>
+          <Worship>Teros</Worship>
+        </Monster>
+        <Monster>
+          <Name>A man hung in the staircase (undead)</Name>
+          <Worth>24000</Worth>
+          <Alignment>Slightly Evil</Alignment>
+          <Worship>Mordiggian</Worship>
+        </Monster>
+        <Monster>
+          <Name>A half maid floating in the air (undead)</Name>
+          <Worth>35000</Worth>
+          <Alignment>Slightly Evil</Alignment>
+          <Worship>Mordiggian</Worship>
+        </Monster>
+        <Monster>
+          <Name>A colorful parrot.</Name>
+          <Worth>45000</Worth>
+          <Alignment>Slightly Good</Alignment>
+          <Worship>Xellios</Worship>
+        </Monster>
+        <Monster>
+          <Name>A big colorful parrot flying around</Name>
+          <Worth>36000</Worth>
+          <Alignment>Slightly Good</Alignment>
+          <Worship>Xellios</Worship>
+        </Monster>
+        <Monster>
+          <Name>A zombie gardener (undead)</Name>
+          <Worth>36000</Worth>
+          <Alignment>Slightly Evil</Alignment>
+          <Worship>Mordiggian</Worship>
+        </Monster>
+        <Monster>
+          <Name>A grey faced nanny with a skirt leaning to the wall (undead)  (AGGRO)</Name>
+          <Worth>36000</Worth>
+          <Alignment>Slightly Evil</Alignment>
+          <Worship>Mordiggian</Worship>
+        </Monster>
+        <Monster>
+          <Name>An undead child impaled into a holy cross. (undead)  (AGGRO)</Name>
+          <Worth>36000</Worth>
+          <Alignment>Slightly Evil</Alignment>
+          <Worship>Mordiggian</Worship>
+          <Loot>
+            <Item>
+              <Name>A holy cross</Name>
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>A floating ghoul (undead)</Name>
+          <Worth>23000</Worth>
+          <Alignment>Very Evil</Alignment>
+          <Worship>Mordiggian</Worship>
+        </Monster>
+        <Monster>
+          <Name>A rotten servant convulsing on the floor. (undead)</Name>
+          <Worth>678000</Worth>
+          <Alignment>Slightly Evil</Alignment>
+          <Worship>Mordiggian</Worship>
+          <Loot>
+            <Item>
+              <Name>An urn for crematory ashes</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name>Acid Arrow</Name>
+            </SkillSpell>
+            <SkillSpell>
+              <Name>Firebolt</Name>
+            </SkillSpell>
+            <SkillSpell>
+              <Name>Icebolt</Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+      </Monsters>
+    </Area>
     <!-- <Area>
       <Name></Name>
       <Coder></Coder>
@@ -11665,6 +11919,7 @@
           <Name></Name>
           <Worth></Worth>
           <Alignment></Alignment>
+          <Worship></Worship>
           <Loot>
             <Item>
               <Name></Name>
