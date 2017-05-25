@@ -11907,6 +11907,375 @@
         </Monster>
       </Monsters>
     </Area>
+     <Area>
+      <Name>Weohstan's Mill and Denulf's Farm</Name>
+      <Coder>Explicit</Coder>
+      <Directions>
+        <To>12 w;3 n;village</To>
+        <From>fields;3 s;12 e;</From>
+      </Directions>
+      <Monsters>
+        <Monster>
+          <Name>A slightly groggy oak-ent, rustling its' leaves</Name>
+          <Worth>105000</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+        <Monster>
+          <Name>A farmer carrying various farming tools</Name>
+          <Worth>16000</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>A long wooden rake (2h)</Name>
+            </Item>
+            <Item>
+              <Name>A big rusty pickaxe (2h)</Name>
+            </Item>
+            <Item>
+              <Name>An iron edged wooden shovel (2h)</Name>
+            </Item>
+            <Item>
+              <Name>A wooden pitchfork (2h)</Name>
+            </Item>
+            <Item>
+              <Name>A small Farmer's sickle (1h)</Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>A white goose waddling around</Name>
+          <Worth>6800</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>A gray sheep-dog with floppy ears</Name>
+          <Worth>11000</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>A small yellow chicken</Name>
+          <Worth>6800</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>A speckled hen</Name>
+          <Worth>6800</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>A brown rooster with green tail feathers</Name>
+          <Worth>6800</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>Denulf the farmer, inspecting his properties</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>Lars, the head farmhand of Denulf's farm</Name>
+          <Worth>35000</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>A sturdy brown working horse</Name>
+          <Worth>11000</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>A black bull with a ring in its nose</Name>
+          <Worth>11000</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>A fat pig, grubbing around in the sty</Name>
+          <Worth>6800</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>A black-brindled white cow</Name>
+          <Worth>11000</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>A fat grey cat with long whiskers</Name>
+          <Worth>6800</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>Eithne, the slightly plump wife of Denulf</Name>
+          <Worth>16000</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>Gullan, the maid of Denulf's farm</Name>
+          <Worth>16000</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>A big black rat</Name>
+          <Worth>5500</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>A red-nosed farmer, holding a bottle</Name>
+          <Worth>16000</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>A bottle made of green glass</Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>A farmer woman with dark circles under her eyes</Name>
+          <Worth>16000</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>A fat boy screaming for mommy</Name>
+          <Worth>6800</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>A skinny girl screaming for mommy</Name>
+          <Worth>6800</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>A fat boy turning the room into a mess</Name>
+          <Worth>6800</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>A fat girl running around in circles</Name>
+          <Worth>6800</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>A skinny boy playing with his toys</Name>
+          <Worth>6800</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>A small boy running around in circles</Name>
+          <Worth>6800</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>The millers wife Geena, keeping everything neat and clean</Name>
+          <Worth>16000</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>A shabby white and black cat with yellow eyes</Name>
+          <Worth>6800</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>Weohstan the hard working village miller</Name>
+          <Worth>23000</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>A big barn owl hiding in the roof truss</Name>
+          <Worth>6800</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>An obnoxious girl screaming for mommy</Name>
+          <Worth>6800</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>An obnoxious boy turning the room into a mess</Name>
+          <Worth>6800</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+        <Monster>
+          <Name>A large jovial farmer woman</Name>
+          <Worth>16000</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>          
+        </Monster>
+      </Monsters>
+    </Area> 
     <!-- <Area>
       <Name></Name>
       <Coder></Coder>
