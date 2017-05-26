@@ -12276,6 +12276,102 @@
         </Monster>
       </Monsters>
     </Area> 
+    <Area>
+      <Name>Goblin Forest</Name>
+      <Coder>Sivamat</Coder>
+      <Directions>
+        <To>9 s;3 e;path;</To>
+        <From>path;3 w;9 n;</From>
+      </Directions>
+      <Monsters>
+        <Monster>
+          <Name>A small female goblin explorer</Name>
+          <Worth>2300</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+        <Monster>
+          <Name>A small male goblin explorer</Name>
+          <Worth>2300</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+        <Monster>
+          <Name>A goblin marauder</Name>
+          <Worth>4500</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>A goblin short sword (1h)</Name>
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>An agile goblin champion</Name>
+          <Worth>16000</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>A dual-bladed goblin axe (1h)</Name>
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>A muscular goblin champion</Name>
+          <Worth>16000</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>A goblin sword (1h)</Name>
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>A goblin guard  (AGGRO)</Name>
+          <Worth>35000</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>A goblin sword (1h)</Name>
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>A goblin mage</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>A long dark grey robe</Name>
+            </Item>
+            <Item>
+              <Name>A Tattered book with leather bindings</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name>Fireball</Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>A goblin sergeant</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>
+        </Monster>
+      </Monsters>
+    </Area>
     <!-- <Area>
       <Name></Name>
       <Coder></Coder>
