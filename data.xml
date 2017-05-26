@@ -11908,7 +11908,7 @@
       </Monsters>
     </Area>
      <Area>
-      <Name>Weohstan's Mill and Denulf's Farm</Name>
+      <Name>Newbie Village</Name>
       <Coder>Explicit</Coder>
       <Directions>
         <To>12 w;3 n;village</To>
