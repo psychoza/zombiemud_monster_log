@@ -40,8 +40,7 @@
               <xsl:sort select="Name"/>
               <tr>
                 <td class="area">
-                  <xsl:value-of select="Name"/>
-                  <a target="monster_log_map"><xsl:attribute name="name"><xsl:value-of select="Map"/></xsl:attribute><xsl:attribute name="href"><xsl:value-of select="Map"/></xsl:attribute><xsl:value-of select="Map"/></a>
+                  <a target="monster_log_map"><xsl:attribute name="name"><xsl:value-of select="Name"/></xsl:attribute><xsl:attribute name="href"><xsl:value-of select="Map"/></xsl:attribute><xsl:value-of select="Name"/></a>
                 </td>
                 <td class="coder"><xsl:value-of select="Coder"/></td>
                 <td class="directions">To:<br/><xsl:value-of select="Directions/To"/><br/><br/>From:<br/><xsl:value-of select="Directions/From"/></td>
