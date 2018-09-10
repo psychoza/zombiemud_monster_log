@@ -9,10 +9,10 @@
       </head>
       <body style="background-color: #CCCCCC;">
         <div id="monsterlog">
-          <h1><img src="https://dl.dropboxusercontent.com/u/63437940/ZombieMUD/images/zombiehead.jpg" width="18" height="20" style="vertical-align: middle;" /> Psychoza's ZombieMUD Monster Log <img src="https://dl.dropboxusercontent.com/u/63437940/ZombieMUD/images/zombiehead.jpg" width="18" height="20" style="vertical-align: middle;" /></h1>
+          <h1>Psychoza's ZombieMUD Monster Log</h1>
           <h2>
             <a href="http://zombiemud.org/">
-              <img src="https://dl.dropboxusercontent.com/u/63437940/ZombieMUD/images/banner1c.jpg" alt="Join us at ZombieMUD.org" width="88" height="31" border="0" />
+              <img src="https://github.com/psychoza/zombiemud_monster_log/raw/master/images/banner1c.jpg" alt="Join us at ZombieMUD.org" width="88" height="31" border="0" />
             </a>
           </h2>
           <br />
@@ -40,7 +40,8 @@
               <xsl:sort select="Name"/>
               <tr>
                 <td class="area">
-                  <a target="monster_log_map"><xsl:attribute name="name"><xsl:value-of select="Name"/></xsl:attribute><xsl:attribute name="href"><xsl:value-of select="Map"/></xsl:attribute><xsl:value-of select="Name"/></a>
+                  <xsl:value-of select="Name"/>
+                  <a target="monster_log_map"><xsl:attribute name="name"><xsl:value-of select="Map"/></xsl:attribute><xsl:attribute name="href"><xsl:value-of select="Map"/></xsl:attribute><xsl:value-of select="Map"/></a>
                 </td>
                 <td class="coder"><xsl:value-of select="Coder"/></td>
                 <td class="directions">To:<br/><xsl:value-of select="Directions/To"/><br/><br/>From:<br/><xsl:value-of select="Directions/From"/></td>

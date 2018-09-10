@@ -12483,7 +12483,66 @@
               <Name></Name>
             </SkillSpell>
           </SkillSpells>
-        </Monster>        
+        </Monster>
+        <Monster>
+          <Name>Paladin Commander</Name>
+          <Worth></Worth>
+          <Alignment>Angelic</Alignment>
+          <Worship>Silvain</Worship>
+          <Loot>
+          <Item>
+              <Name>A bronze buckler</Name>
+            </Item>
+            <Item>
+              <Name>A black piece of onyx</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>A sturdy paladin soldier</Name>
+          <Worth></Worth>
+          <Alignment>Very good</Alignment>
+          <Worship>Aquaris</Worship>
+          <Loot>
+            
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>A wounded paladin soldier</Name>
+          <Worth></Worth>
+          <Alignment>Very good</Alignment>
+          <Worship>Aquaris</Worship>
+          <Loot>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>A study paladin medic</Name>
+          <Worth></Worth>
+          <Alignment>Very good</Alignment>
+          <Worship>Aquaris</Worship>
+          <Loot>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
       </Monsters>
     </Area>
     <!-- <Area>
