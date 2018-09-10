@@ -12276,6 +12276,216 @@
         </Monster>
       </Monsters>
     </Area>
+    <Area>
+      <Name>Fiends</Name>
+      <Coder>Pim</Coder>
+      <Directions>
+        <To>5 w;4 n;ne;d;4 s;w;n;5 d;</To>
+        <From>5 u;s;e;4 n;u;sw;4 s;5 e;</From>
+      </Directions>
+      <Map>https://www.reddit.com/r/zombiemud/wiki/areas/fiends</Map>
+      <Monsters>
+        <Monster>
+          <Name>A skeleton warrior (undead)  (AGGRO)</Name>
+          <Worth>472000</Worth>
+          <Alignment>Very evil</Alignment>
+          <Worship>Mordiggian</Worship>
+          <Loot>
+            <Item>
+              <Name>Iron glaive (2h)</Name>
+            </Item>
+            <Item>
+              <Name>Moldy leather leggings</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name>Make Scar</Name>
+            </SkillSpell>
+            <SkillSpell>
+              <Name>Curse</Name>
+            </SkillSpell>
+            <SkillSpell>
+              <Name>Scream?</Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>A wailing banshee (undead)  (AGGRO)</Name>
+          <Worth>467000</Worth>
+          <Alignment>Very evil</Alignment>
+          <Worship>Mordiggian</Worship>
+          <Loot>
+            <Item>
+              <Name>Iron chains (2h)</Name>
+            </Item>
+            <Item>
+              <Name>A bone shield</Name>
+            </Item>
+            <Item>
+              <Name>Iron glaive (2h)</Name>
+            </Item>
+            <Item>
+              <Name>A white piece of bone</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name>Curse</Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>A minion of the underworld come to haunt you (undead)  (AGGRO)</Name>
+          <Worth>463000</Worth>
+          <Alignment>Very evil</Alignment>
+          <Worship>Mordiggian</Worship>
+          <Loot>
+            <Item>
+              <Name>Iron glaive (2h)</Name>
+            </Item>
+            <Item>
+              <Name>Iron chains (2h)</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name>Poison</Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>A sulfurous golem standing on his pedistal</Name>
+          <Worth>641000</Worth>
+          <Alignment>Very evil</Alignment>
+          <Worship>Teros</Worship>
+          <Loot>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name>Acid rain</Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>An ice golem standing on his pedistal</Name>
+          <Worth>690000</Worth>
+          <Alignment>Extremely evil</Alignment>
+          <Worship>Teros</Worship>
+          <Loot>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name>Snowstorm</Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>A fire golem standing on his pedistal</Name>
+          <Worth>719000</Worth>
+          <Alignment>Extremely evil</Alignment>
+          <Worship>Teros</Worship>
+          <Loot>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name>Fireball</Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>A stone golem standing on his pedistal</Name>
+          <Worth>638000</Worth>
+          <Alignment>Very evil</Alignment>
+          <Worship>Teros</Worship>
+          <Loot>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name>Acid rain</Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>A muscular looking fiend</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>A devious looking fiend</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>A weak looking fiend</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>An aggressive pit fiend mentalist</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>An aggressive pit fiend fencer</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>An enormous hairy fiend, sewn-up from rotten flesh</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>        
+      </Monsters>
+    </Area>
     <!-- <Area>
       <Name></Name>
       <Coder></Coder>
@@ -12283,6 +12493,7 @@
         <To></To>
         <From></From>
       </Directions>
+      <Map></Map>
       <Monsters>
         <Monster>
           <Name></Name>
