@@ -12545,6 +12545,97 @@
         </Monster>
       </Monsters>
     </Area>
+    <Area>
+      <Name>Spider Forest</Name>
+      <Coder>Tank</Coder>
+      <Directions>
+        <To>3 e;4 n;w;buy transport to ravenkall;2 w;6 n;2 e;14 n;7 ne;enter;</To>
+        <From>out;7 sw;14 s;2 e;2 s;2 e;3 s;buy transport to zombiecity;</From>
+      </Directions>
+      <Map>https://www.reddit.com/r/zombiemud/wiki/areas/spider_forest</Map>
+      <Monsters>
+        <Monster>
+          <Name>A massive black Tarantula</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>Blood red eye of the Widow Spider</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>A long legged spider is here working</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>A bloody wolf spider</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>Brown Recluse</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>Black Widow</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+      </Monsters>
+    </Area>
     <!-- <Area>
       <Name></Name>
       <Coder></Coder>
