@@ -13061,16 +13061,82 @@
           <Worth>14100</Worth>
           <Alignment></Alignment>
           <Worship></Worship>
-          <Loot>
-            <Item>
-              <Name></Name>
-            </Item>
-          </Loot>
-          <SkillSpells>
-            <SkillSpell>
-              <Name></Name>
-            </SkillSpell>
-          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>A huge famished cave bear</Name>
+          <Worth>1120100</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+        <Monster>
+          <Name>A wandering zombie (undead)  (AGGRO)</Name>
+          <Worth>96200</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+      </Monsters>
+    </Area>
+    <Area>
+      <Name>ZombieOutWorld - Plains</Name>
+      <Coder></Coder>
+      <Directions>
+        <To>Rooms of type 'i', 'p'</To>
+        <From></From>
+      </Directions>
+      <Map></Map>
+      <Monsters>
+        <Monster>
+          <Name>A black and white badger</Name>
+          <Worth>24500</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+        <Monster>
+          <Name>A dire badger sniffing around</Name>
+          <Worth>125800</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+        <Monster>
+          <Name>A rugged warthog</Name>
+          <Worth>47200</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+      </Monsters>
+    </Area>
+    <Area>
+      <Name>ZombieOutWorld - Hills</Name>
+      <Coder></Coder>
+      <Directions>
+        <To>Rooms of type 'h', 'H'</To>
+        <From></From>
+      </Directions>
+      <Map></Map>
+      <Monsters>
+        <Monster>
+          <Name>A giant spider</Name>
+          <Worth>1061500</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+        <Monster>
+          <Name>A skulking cougar</Name>
+          <Worth>708700</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+        <Monster>
+          <Name>A massive cautious looking axe beak</Name>
+          <Worth>407200</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+        <Monster>
+          <Name>A nimble mountain goat</Name>
+          <Worth>24900</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
         </Monster>
       </Monsters>
     </Area>
