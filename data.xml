@@ -12884,10 +12884,10 @@
           <Worship></Worship>
           <Loot>
             <Item>
-              red cloak of stars
+              <Name>red cloak of stars</Name>
             </Item>
             <Item>
-              Sceptre of Channeling (2h)
+              <Name>Sceptre of Channeling (2h)</Name>
             </Item>
           </Loot>
           <SkillSpells>
@@ -12901,7 +12901,7 @@
           <Worth>60600</Worth>
           <Loot>
             <Item>
-               Bone staff
+               <Name>Bone staff</Name>
             </Item>
           </Loot>
         </Monster>
