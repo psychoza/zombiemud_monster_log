@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="application/xslt+xml" href="https://psychoza.github.io/zombiemud_monster_log/data.xsl"?>
-<Database xmlns="http://www.w3.org/1999/xhtml">
+<Database>
   <Areas>
     <Area>
       <Name>Medo</Name>
