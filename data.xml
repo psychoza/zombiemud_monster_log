@@ -12768,7 +12768,7 @@
           <Worth>200800</Worth>
           <Loot>
             <Item>
-              Padded leggings
+              <Name>Padded leggings</Name>
             </Item>
           </Loot>
         </Monster>
@@ -12786,7 +12786,7 @@
           </SkillSpells>
           <Loot>
             <Item>
-               A gravy-encrusted key
+               <Name>A gravy-encrusted key</Name>
             </Item>
           </Loot>
         </Monster>
@@ -12795,7 +12795,7 @@
           <Worth>52500</Worth>
           <Loot>
             <Item>
-               A large bubinga club (2h)
+               <Name>A large bubinga club (2h)</Name>
             </Item>
           </Loot>
         </Monster>
@@ -12804,7 +12804,7 @@
           <Worth>52700</Worth>
           <Loot>
             <Item>
-               A pitted iron sword (1h)
+               <Name>A pitted iron sword (1h)</Name>
             </Item>
           </Loot>
         </Monster>
@@ -12829,7 +12829,7 @@
           <Worth>93100</Worth>
           <Loot>
             <Item>
-               A large, elegant stiletto (2h)
+              <Name>A large, elegant stiletto (2h)</Name>
             </Item>
           </Loot>
         </Monster>
@@ -12838,7 +12838,7 @@
           <Worth>16800</Worth>
           <Loot>
             <Item>
-               red topcoat
+               <Name>red topcoat</Name>
             </Item>
           </Loot>
         </Monster><Monster>
@@ -12846,13 +12846,13 @@
           <Worth>134000</Worth>
           <Loot>
             <Item>
-              A short spear (2h)
+              <Name>A short spear (2h)</Name>
             </Item>
             <Item>
-              A wide bladed sword (1h)
+              <Name>A wide bladed sword (1h)</Name>
             </Item>
             <Item>
-              A iron key
+              <Name>A iron key</Name>
             </Item>
           </Loot>
         </Monster>
@@ -12873,7 +12873,7 @@
           <Worth>51300</Worth>
           <Loot>
             <Item>
-               A short, clublike staff (1h)
+               <Name>A short, clublike staff (1h)</Name>
             </Item>
           </Loot>
         </Monster>
@@ -12923,7 +12923,7 @@
           <Worth>23700</Worth>
           <Loot>
             <Item>
-               iron boots
+               <Name>iron boots</Name>
             </Item>
           </Loot>
         </Monster>
@@ -12936,10 +12936,10 @@
           <Worth>1327300</Worth>
           <Loot>
             <Item>
-                War mask of the Devils
+                <Name>War mask of the Devils</Name>
             </Item>
             <Item>
-                Tungsten bracers
+                <Name>Tungsten bracers</Name>
             </Item>
           </Loot>
           <SkillSpells>
