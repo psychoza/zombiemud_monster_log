@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="https://psychoza.github.io/zombiemud_monster_log/data.xsl"?>
+<?xml-stylesheet type="application/xslt+xml" href="https://psychoza.github.io/zombiemud_monster_log/data.xsl"?>
 <Database xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Areas>
     <Area>
