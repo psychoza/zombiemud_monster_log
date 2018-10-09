@@ -12950,6 +12950,130 @@
         </Monster>
       </Monsters>
     </Area>
+    <Area>
+      <Name>ZombieOutWorld - Forests</Name>
+      <Coder></Coder>
+      <Directions>
+        <To>Rooms of type 'f', 'F', 'c'</To>
+        <From></From>
+      </Directions>
+      <Map></Map>
+      <Monsters>
+        <Monster>
+          <Name>A slender and graceful-looking lynx</Name>
+          <Worth>26100</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>Silivren the elven archer</Name>
+          <Worth>20000000?</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>An exquisite stave of a recurve bow (2h)</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>A chubby raccoon</Name>
+          <Worth>22400</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+        <Monster>
+          <Name>A roaming zombie (undead)  (AGGRO)</Name>
+          <Worth>187400</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+        <Monster>
+          <Name>A massive bull elk with magnificent antlers</Name>
+          <Worth>67000</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>A spectacular pair of elk antlers</Name>
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>A slender wolf looking for prey</Name>
+          <Worth>49600</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+        <Monster>
+          <Name>A cute and curious raccoon</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+        <Monster>
+          <Name>A sturdy bison cow</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+        <Monster>
+          <Name>A tawny bison calf</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+        <Monster>
+          <Name>A stalwart bison bull</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+        <Monster>
+          <Name>An agile lynx with pointy ears</Name>
+          <Worth>57400</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+        <Monster>
+          <Name>A raving zombie (undead)  (AGGRO)</Name>
+          <Worth>548200</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+        <Monster>
+          <Name>A fawn of a white-tailed deer</Name>
+          <Worth>14100</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+      </Monsters>
+    </Area>
     <!-- <Area>
       <Name></Name>
       <Coder></Coder>
