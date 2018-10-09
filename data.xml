@@ -12636,6 +12636,321 @@
         </Monster>
       </Monsters>
     </Area>
+    <Area>
+      <Name>Dragon Temple</Name>
+      <Coder>Gevalia</Coder>
+      <Directions>
+        <To>7 n;16 nw;20 w;2 sw;5 w;nw;5 w;5 sw;2 w;7 sw;path;</To>
+        <From>out;7 ne;2 e;5 ne;5 e;se;5 e;2 ne;20 e;16 se;7 s;</From>
+      </Directions>
+      <Map></Map>
+      <Monsters>
+        <Monster>
+          <Name>A strong looking monk guarding the temple entrance</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>              
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+      </Monsters>
+    </Area>
+    <Area>
+      <Name>Pranthos' Manor</Name>
+      <Coder>Finderne</Coder>
+      <Directions>
+        <To>7 n;16 nw;11 w;10 w;sw;valley;</To>
+        <From>uphill;ne;11 e;10 e;16 se;7 s;</From>
+      </Directions>
+      <Map></Map>
+      <Monsters>
+        <Monster>
+          <Name>An iridescent dragonfly</Name>
+          <Worth>1900</Worth>
+        </Monster>
+        <Monster>
+          <Name>A prowling fox</Name>
+          <Worth>11000</Worth>
+        </Monster>
+        <Monster>
+          <Name> A tiny green fly</Name>
+          <Worth>1200</Worth>
+        </Monster>
+        <Monster>
+          <Name>A dark brown minnow</Name>
+          <Worth>1200</Worth>
+        </Monster>
+        <Monster>
+          <Name>A mosquito hovers above the water</Name>
+          <Worth>1200</Worth>
+        </Monster>
+        <Monster>
+          <Name>A mosquito circles around the puddle</Name>
+          <Worth>1200</Worth>
+        </Monster>
+        <Monster>
+          <Name>A bottle fly</Name>
+          <Worth>1200</Worth>
+        </Monster>
+        <Monster>
+          <Name>A tiny hummingbird</Name>
+          <Worth>1200</Worth>
+        </Monster>
+        <Monster>
+          <Name>A large bullfrog</Name>
+          <Worth>1900</Worth>
+        </Monster>
+        <Monster>
+          <Name>A new crocodile hatchling</Name>
+          <Worth>3600</Worth>
+        </Monster>
+        <Monster>
+          <Name>A starving mouse</Name>
+          <Worth>3600</Worth>
+        </Monster>
+        <Monster>
+          <Name>A hungry bear is ripping apart a tree log</Name>
+          <Worth>13400</Worth>
+        </Monster>
+        <Monster>
+          <Name>A large rabbit leans forward from cover</Name>
+          <Worth>6800</Worth>
+        </Monster>
+        <Monster>
+          <Name>A fat beaver</Name>
+          <Worth>6800</Worth>
+        </Monster>
+        <Monster>
+          <Name>A sparrow hawk is eating a freshly killed mouse</Name>
+          <Worth>6800</Worth>
+        </Monster>
+        <Monster>
+          <Name>A mature female crocodile guarding her brood</Name>
+          <Worth>23600</Worth>
+        </Monster>
+        <Monster>
+          <Name>A tiny shrew</Name>
+          <Worth>2900</Worth>
+        </Monster>
+        <Monster>
+          <Name>An enormous bear is scratching its back on a tree</Name>
+          <Worth>13400</Worth>
+        </Monster>
+        <Monster>
+          <Name>A brown bear heading back to its den</Name>
+          <Worth>13400</Worth>
+        </Monster>
+        <Monster>
+          <Name>A bluejay perched on a lower tree limb</Name>
+          <Worth>7400</Worth>
+        </Monster>
+        <Monster>
+          <Name>A rather snobby little peacock roams the grounds</Name>
+          <Worth>5600</Worth>
+        </Monster>
+        <Monster>
+          <Name>A farmer's wife looks nervously around the manor</Name>
+          <Worth>19600</Worth>
+        </Monster>
+        <Monster>
+          <Name>A groom is mucking out the stalls</Name>
+          <Worth>13500</Worth>
+        </Monster>
+        <Monster>
+          <Name>The manor's hostler</Name>
+          <Worth>200800</Worth>
+          <Loot>
+            <Item>
+              Padded leggings
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>The stableboy is cowering behind a haystack</Name>
+          <Worth>23500</Worth>
+        </Monster>
+        <Monster>
+          <Name>The Gourmet Troll Chef</Name>
+          <Worth>270800</Worth>
+          <SkillSpells>
+            <SkillSpell>
+              <Name>Icebolt</Name>
+            </SkillSpell>
+          </SkillSpells>
+          <Loot>
+            <Item>
+               A gravy-encrusted key
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>A vicious mutant</Name>
+          <Worth>52500</Worth>
+          <Loot>
+            <Item>
+               A large bubinga club (2h)
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>A mutant guard roaming the grounds</Name>
+          <Worth>52700</Worth>
+          <Loot>
+            <Item>
+               A pitted iron sword (1h)
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>Serving maid</Name>
+          <Worth>6800</Worth>
+        </Monster>
+        <Monster>
+          <Name>Peasant farmer</Name>
+          <Worth>6800</Worth>
+        </Monster>
+        <Monster>
+          <Name>Large housecat</Name>
+          <Worth>6800</Worth>
+        </Monster>
+        <Monster>
+          <Name>Lentarthos the Thaumaturge</Name>
+          <Worth>35400</Worth>
+        </Monster>
+        <Monster>
+          <Name>The butler is straightening things up a bit</Name>
+          <Worth>93100</Worth>
+          <Loot>
+            <Item>
+               A large, elegant stiletto (2h)
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>Thaddeus the Majordomo</Name>
+          <Worth>16800</Worth>
+          <Loot>
+            <Item>
+               red topcoat
+            </Item>
+          </Loot>
+        </Monster><Monster>
+          <Name>An alert sentry</Name>
+          <Worth>134000</Worth>
+          <Loot>
+            <Item>
+              A short spear (2h)
+            </Item>
+            <Item>
+              A wide bladed sword (1h)
+            </Item>
+            <Item>
+              A iron key
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>A large female ogre</Name>
+          <Worth>35500</Worth>
+        </Monster>
+        <Monster>
+          <Name>A small vicious mutant</Name>
+          <Worth>35500</Worth>         
+        </Monster>
+        <Monster>
+          <Name>One of Pranthos' slaves</Name>
+          <Worth>19600</Worth>
+        </Monster>
+        <Monster>
+          <Name>A mutant -race- warrior  (AGGRO)</Name>
+          <Worth>51300</Worth>
+          <Loot>
+            <Item>
+               A short, clublike staff (1h)
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>Pranthos the Sorceror  (AGGRO)</Name>
+          <Worth>513200</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              red cloak of stars
+            </Item>
+            <Item>
+              Sceptre of Channeling (2h)
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>An authoritative Devil-like creature</Name>
+          <Worth>60600</Worth>
+          <Loot>
+            <Item>
+               Bone staff
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>A large Devil-like creature</Name>
+          <Worth>23400</Worth>
+          <Loot>
+            <Item>
+               Shimmering shield
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>Hell-rat  (AGGRO)</Name>
+          <Worth>5600</Worth>
+        </Monster>
+        <Monster>
+          <Name>A fierce devil-like creature  (AGGRO)</Name>
+          <Worth>23700</Worth>
+          <Loot>
+            <Item>
+               iron boots
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>A small Devil-like creature</Name>
+          <Worth>16200</Worth>
+        </Monster>
+        <Monster>
+          <Name>Czchanectul plots his revenge</Name>
+          <Worth>1327300</Worth>
+          <Loot>
+            <Item>
+                War mask of the Devils
+            </Item>
+            <Item>
+                Tungsten bracers
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name>Psychic Crush</Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        </Monster>
+      </Monsters>
+    </Area>
     <!-- <Area>
       <Name></Name>
       <Coder></Coder>
