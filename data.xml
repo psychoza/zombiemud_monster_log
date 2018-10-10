@@ -8419,8 +8419,8 @@
     <Area>
       <Name>Frozen Woods</Name>
       <Directions>
-        <To></To>
-        <From></From>
+        <To>7 n;20 nw;6 nw;16 w;woods;</To>
+        <From>s;16 e;6 se;20 se;7 s;</From>
       </Directions>
       <Monsters>
         <Monster>
@@ -13137,6 +13137,414 @@
           <Worth>24900</Worth>
           <Alignment></Alignment>
           <Worship></Worship>
+        </Monster>
+      </Monsters>
+    </Area>
+    <Area>
+      <Name>Village of Hor</Name>
+      <Coder>Rane</Coder>
+      <Directions>
+        <To>7 n;20 nw;19 w;path;</To>
+        <From>out;19 e;20 se;7 s;</From>
+      </Directions>
+      <Map></Map>
+      <Monsters>
+        <Monster>
+          <Name>Apprentice of Hfran</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name>'damaa bounchiii'</Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>/Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>Twisted leggings</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name>Hellfire</Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>Guard of the village</Name>
+          <Worth>19600</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>A longsword (1h)</Name>
+            </Item>
+          </Loot>
+        </Monster>        
+        <Monster>
+          <Name>Mother of the horian family</Name>
+          <Worth>16400</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+        <Monster>
+          <Name>Father of the horian family</Name>
+          <Worth>23700</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+        <Monster>
+          <Name>Child of the horian family</Name>
+          <Worth>13300</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+        <Monster>
+          <Name>Frar the leader of the Hor village</Name>
+          <Worth>71400</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+        <Monster>
+          <Name>Goblin creature  (AGGRO)</Name>
+          <Worth>13400</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+        <Monster>
+          <Name>Small goblin creature</Name>
+          <Worth>3600</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+        <Monster>
+          <Name>Security guard of Blain  (AGGRO)</Name>
+          <Worth>194100</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+      </Monsters>
+    </Area>
+    <Area>
+      <Name>Varalor Island</Name>
+      <Coder>Jaden</Coder>
+      <Directions>
+        <To>9 e;16 ne;portal;</To>
+        <From></From>
+      </Directions>
+      <Map></Map>
+      <Monsters>
+        <Monster>
+          <Name>The village weaver</Name>
+          <Worth>376400</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>thin silk tunic</Name>
+            </Item>
+            <Item>
+              <Name>A colourful scarf</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>An unenlightened novice.</Name>
+          <Worth>1500</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>A woolen monk robe</Name>
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>An initiate training to be a monk.</Name>
+          <Worth>1200</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>A woolen monk robe</Name>
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>A white robed monk meditates here.</Name>
+          <Worth>2300</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>A woolen monk robe</Name>
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>A monk clad in amber robes.</Name>
+          <Worth>3700</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>A woolen monk robe</Name>
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>A monk clad in azure robes.</Name>
+          <Worth>11500</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>A woolen monk robe</Name>
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>A monk clad in crimson robes.</Name>
+          <Worth>5700</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>A woolen monk robe</Name>
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>An impressive black robed monk.</Name>
+          <Worth>17200</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>A woolen monk robe</Name>
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>A naked monk is torturing himself.</Name>
+          <Worth>25500</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+        </Monster>
+        <Monster>
+          <Name>A monk master stands here, teaching by example.</Name>
+          <Worth>104600</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>Cotton loincloth</Name>
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>Tishron Palbard sits here, completing his training.</Name>
+          <Worth>397500</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>Cotton loincloth</Name>
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>A vendor of magic dust</Name>
+          <Worth>397500</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>Light cloak</Name>
+            </Item>
+            <Item>
+              <Name>woven boots</Name>
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>A peaceful monk dressed in a brown loincloth.</Name>
+          <Worth>49900</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>Cotton loincloth</Name>
+            </Item>
+          </Loot>
+        </Monster>
+        <Monster>
+          <Name>Malova Zendu meditates on his crystal.</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>PK Crystal</Name>
+            </Item>
+            <Item>
+              <Name>A woolen monk robe</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>Hileran, the Varalor master craftsman</Name>
+          <Worth>1102500</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>Light cloak</Name>
+            </Item>
+            <Item>
+              <Name>thin silk tunic</Name>
+            </Item>
+            <Item>
+              <Name>A small silver ring</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>Verkle the merchant</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>A small magnifying glass</Name>
+            </Item>
+            <Item>
+              <Name>thin silk tunic</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>An elite, combat trained monk.</Name>
+          <Worth>65600</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>Cotton loincloth</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name>'ala kazam bam'</Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>The Grand Tortue</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>White Loincloth</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>The apprentice to the Sustainer studies here.</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>A colourful scarf</Name>
+            </Item>
+            <Item>
+              <Name>Book of alteration</Name>
+            </Item>
+            <Item>
+              <Name>A belt</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>Dust, the martial arts teacher of the monastery.</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>Nightblack spiked gloves</Name>
+            </Item>
+            <Item>
+              <Name>Cotton loincloth</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>The Varalor elder</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>A small pouch for holding dust of some kind</Name>
+            </Item>
+            <Item>
+              <Name>thin silk tunic</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
         </Monster>
       </Monsters>
     </Area>
