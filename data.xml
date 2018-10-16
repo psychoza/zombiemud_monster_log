@@ -2846,10 +2846,13 @@
         </Monster>
         <Monster>
           <Name>Lord Vargan sits here alone.</Name>
-          <Worth>1748000</Worth>
+          <Worth>1978700</Worth>
           <Loot>
             <Item>
-              <Name></Name>
+              <Name>Cursed Crown</Name>
+            </Item>
+            <Item>
+              <Name>Royal Sceptre</Name>
             </Item>
           </Loot>
           <SkillSpells>
@@ -7302,8 +7305,8 @@
     <Area>
       <Name>Highwall</Name>
       <Directions>
-        <To>3 e;4 n;w;buy transport to ravenkall;2 w;6 n;2 e;7 n;8 nw;20 w;13 w;10 sw;5 w;sw;ruins;</To>
-        <From>out;ne;5 e;10 ne;20 e;13 e;8 se;7 s;2 e;2 s;2 e;3 s;buy transport to zombiecity;</From>
+        <To>3 e;4 n;w;buy transport to ravenkall;2 w;6 n;2 e;3 n;11 nw;20 w;20 w;9 w;nw;3 w;7 sw;6 se;4 ne;2 se;2 e;ruins</To>
+        <From>out;2 w;2 nw;4 sw;6 nw;7 ne;3 e;se;9 e;20 e;20 e;11 se;3 s;2 e;2 s;2 e;3 s;buy transport to zombiecity;</From>
       </Directions>
       <Monsters>
         <Monster>
@@ -13437,7 +13440,7 @@
         </Monster>
         <Monster>
           <Name>Verkle the merchant</Name>
-          <Worth></Worth>
+          <Worth>1057900</Worth>
           <Alignment></Alignment>
           <Worship></Worship>
           <Loot>
@@ -13538,6 +13541,189 @@
             </Item>
             <Item>
               <Name>thin silk tunic</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+      </Monsters>
+    </Area>
+    <Area>
+      <Name>Orc Village</Name>
+      <Coder>Linkless</Coder>
+      <Directions>
+        <To>3 e;4 n;w;buy transport to ravenkall;2 w;6 n;2 e;3 n;w;11 sw;7 w;20 w;17 sw;6 w;20 w;enter;</To>
+        <From>w;20 e;6 e;17 ne;20 e;7 e;11 ne;e;3 s;2 e;2 s;2 e;3 s;buy transport to zombiecity;</From>
+      </Directions>
+      <Map>https://www.reddit.com/r/zombiemud/wiki/areas/orc_village</Map>
+      <Monsters>
+        <Monster>
+          <Name>A sturdy orc gatekeeper</Name>
+          <Worth>207100</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>A curved black longsword (1h)</Name>
+            </Item>
+            <Item>
+              <Name>A leather armour vest</Name>
+            </Item>
+            <Item>
+              <Name>A metal key</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>An orc villager</Name>
+          <Worth>102100</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>A curved black longsword (1h)</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>Lokr'graa, the ancient shaman seer</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>Twilir the ornate staff of the seer (2h)</Name>
+            </Item>
+            <Item>
+              <Name>Runic robes of the shaman</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>A fierce orc warrior</Name>
+          <Worth>1250500</Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name>Firebolt</Name>
+            </SkillSpell>
+            <SkillSpell>
+              <Name>Slash</Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>Nyek'hd, the blademaster of the village</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>A gleaming claymore (2h)</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>An orc woman</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>A mongrel dog</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>An orc child</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>An orc youngster</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name>A simple knife (1h)</Name>
+            </Item>
+          </Loot>
+          <SkillSpells>
+            <SkillSpell>
+              <Name></Name>
+            </SkillSpell>
+          </SkillSpells>
+        </Monster>
+        <Monster>
+          <Name>An elite orc guardian</Name>
+          <Worth></Worth>
+          <Alignment></Alignment>
+          <Worship></Worship>
+          <Loot>
+            <Item>
+              <Name></Name>
             </Item>
           </Loot>
           <SkillSpells>
