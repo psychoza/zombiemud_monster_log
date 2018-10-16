@@ -13624,7 +13624,10 @@
           <Worship></Worship>
           <Loot>
             <Item>
-              <Name></Name>
+              <Name>A curved black longsword (1h)</Name>
+            </Item>
+            <Item>
+              <Name>A leather armour vest</Name>
             </Item>
           </Loot>
           <SkillSpells>
@@ -13654,7 +13657,7 @@
         </Monster>
         <Monster>
           <Name>An orc woman</Name>
-          <Worth></Worth>
+          <Worth>75000</Worth>
           <Alignment></Alignment>
           <Worship></Worship>
           <Loot>
@@ -13670,7 +13673,7 @@
         </Monster>
         <Monster>
           <Name>A mongrel dog</Name>
-          <Worth></Worth>
+          <Worth>52400</Worth>
           <Alignment></Alignment>
           <Worship></Worship>
           <Loot>
@@ -13686,7 +13689,7 @@
         </Monster>
         <Monster>
           <Name>An orc child</Name>
-          <Worth></Worth>
+          <Worth>24700</Worth>
           <Alignment></Alignment>
           <Worship></Worship>
           <Loot>
@@ -13702,7 +13705,7 @@
         </Monster>
         <Monster>
           <Name>An orc youngster</Name>
-          <Worth></Worth>
+          <Worth>55600</Worth>
           <Alignment></Alignment>
           <Worship></Worship>
           <Loot>
@@ -13723,7 +13726,10 @@
           <Worship></Worship>
           <Loot>
             <Item>
-              <Name></Name>
+              <Name>A curved black longsword (1h)</Name>
+            </Item>
+            <Item>
+              <Name>A leather armour vest</Name>
             </Item>
           </Loot>
           <SkillSpells>
